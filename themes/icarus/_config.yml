@@ -29,7 +29,9 @@ customize:
     social_links:
         github: https://github.com/Nesters
         twitter: https://twitter.com/NestersK
-    social_link_tooltip: true # enable the social link tooltip, options: true, false
+        linkedin: https://www.linkedin.com/in/nestersk/
+        envelope: mailto:mail@nesters.me
+    social_link_tooltip: false # enable the social link tooltip, options: true, false
 
 # Widgets
 widgets:
