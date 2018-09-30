@@ -4,7 +4,7 @@ menu:
   Archives: archives
   Tags: tags
   About: about
-  Contact me: contact
+  # Contact me: contact
 
 # Customize
 customize:
@@ -37,7 +37,6 @@ customize:
 widgets:
     - recent_posts
     - category
-    - archive
     - tag
     - tagcloud
     - links
