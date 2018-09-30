@@ -9,10 +9,10 @@ menu:
 # Customize
 customize:
     logo:
-        enabled: true
+        enabled: false
         width: 40
         height: 40
-        url: images/logo.png
+        url: # images/logo.jpg
     profile:
         enabled: true # Whether to show profile bar
         fixed: true
