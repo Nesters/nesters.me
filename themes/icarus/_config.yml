@@ -48,7 +48,7 @@ search:
 
 # Comment
 comment:
-    disqus:  # enter disqus shortname here
+    disqus: nesters-me # enter disqus shortname here
     duoshuo: # enter duoshuo shortname here
     youyan: # enter youyan uid here
     facebook: # enter true to enable
