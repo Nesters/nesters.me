@@ -97,7 +97,7 @@
 
             var currentScrollTop = $(document).scrollTop();
             var profileInnerElem = $('#profile .profile-inner');
-            var needFixed = currentScrollTop >= profileElem.offset().top + profileElem.outerHeight(true);
+            var needFixed = currentScrollTop >= profileElem.offset().top;
 
             if (needFixed) {
                 if (isFixedProfile) return;
@@ -106,9 +106,6 @@
                     .css('width', profileElem.innerWidth() + 'px')
                     .css('top', '0');
 
-                // css animation fade-in
-                profileInnerElem.css('animation', '');
-                profileInnerElem.addClass('anim-fade-in');
                 isFixedProfile = true;
             } else {
                 if (!isFixedProfile) return;
@@ -117,7 +114,6 @@
                     .css('width', '')
                     .css('top', '');
 
-                profileInnerElem.css('animation', 'none');
                 isFixedProfile = false;
             }
         }
