@@ -1,5 +1,6 @@
 ---
 title: Hello World!!!
+date: 2018/10/01
 ---
 Welcome to my blog. This is a beautiful place where I will share my knowledge with the world.
 
