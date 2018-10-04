@@ -30,7 +30,8 @@ What you will need:
 
 Let's create a Netlify account with Github.
 
-Head over to [Netlify.com](https://netlify.com)
+Head over to [Netlify.com](https://netlify.com) and press on the "Sign up" button. Select Github as your sign up method.
+After you confirm that you share your basic information with Netlify we should be good to go.
 
 Next set up a new site from our Github repository
 
