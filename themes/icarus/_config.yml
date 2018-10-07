@@ -46,6 +46,10 @@ search:
     swiftype: # enter swiftype install key here
     baidu: false # you need to disable other search engines to use Baidu search, options: true, false
 
+# Sitemap
+Sitemap: 
+    path: sitemap.xml
+
 # Comment
 comment:
     disqus: nesters-me # enter disqus shortname here
