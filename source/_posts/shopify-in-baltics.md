@@ -1,7 +1,11 @@
 ---
 title: How to enable ecommerce with Shopify in the Baltics
 date: 2019/05/26
-tags: Shopify, ecommerce, Baltics
+tags: 
+  - Shopify
+  - ecommerce
+  - Baltics
+  - custom checkout
 ---
 When thinking about e-commerce in the Baltics (Latvia, Lithuania, Estonia), you are most likely leaning towards using WooCommerce or Magento as your platform for managing the store.
 
@@ -34,6 +38,8 @@ This comes with many benefits to enable the latest trends like upselling directl
 
 This isn't a simple feat. You do need technical understanding of Shopify API and programming skills to achieve this. Also, here we are breaking away from a huge selling point of Shopify - they manage the infrastructure, you worry about sales.
 The best solution I've come up with to lower the burder is to build the Checkout on top of Serverless infrastructure. As long as your code works, you do not need to worry about the servers.
+
+{% asset_img custom_checkout.png Custom Checkout example %}
 
 *Note: you will be losing access to discount code performance tracking as well as built-in analytics and gift card functionality with Custom Checkout. Luckily, there are alternatives for this - most notably - Google Analytics are far more powerful than what you would see in Shopify dashboard.*
 
