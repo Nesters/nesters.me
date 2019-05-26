@@ -1,6 +1,7 @@
 ---
 title: How to enable ecommerce with Shopify in the Baltics
 date: 2019/05/26
+thumbnail: /gallery/thumbnails/shopify_glyph.png
 tags: 
   - Shopify
   - ecommerce
